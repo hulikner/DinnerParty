@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hulik\\.nuget\\packages\\": {}
+    "C:\\Users\\deric\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hulik\\workspace\\csharp\\DinnerParty\\DinnerParty.csproj",
+      "projectUniqueName": "C:\\Users\\deric\\workspace\\csharp\\DinnerParty\\DinnerParty.csproj",
       "projectName": "DinnerParty",
-      "projectPath": "C:\\Users\\hulik\\workspace\\csharp\\DinnerParty\\DinnerParty.csproj",
-      "packagesPath": "C:\\Users\\hulik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hulik\\workspace\\csharp\\DinnerParty\\obj\\",
+      "projectPath": "C:\\Users\\deric\\workspace\\csharp\\DinnerParty\\DinnerParty.csproj",
+      "packagesPath": "C:\\Users\\deric\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deric\\workspace\\csharp\\DinnerParty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hulik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deric\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
